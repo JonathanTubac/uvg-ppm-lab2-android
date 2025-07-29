@@ -15,10 +15,10 @@ Esta aplicación está hecha para comprender los conceptos de textos y botones, 
 - Jetpack Compose
 - Git & GitHub
 
-🧪 Cómo correr este proyecto
+🧪 ¿Cómo correr este proyecto?
 
 1. Clona el repositorio: git clone https://github.com/tu-usuario/tu-repo.git
-2. Abre visual studio y abre el proyecto.
+2. Abre android studio y abre el proyecto.
 3. Configura tu emulador o conecta un dispositivo android para simular el proyecto.
 4. Ejecuta MainActivity.kt
 
