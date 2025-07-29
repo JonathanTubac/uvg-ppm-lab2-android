@@ -7,6 +7,7 @@ Esta aplicación está hecha para comprender los conceptos de textos y botones, 
 - Jetpack Compose para la interfaz de usuario.
 - Git para control de versiones.
 - Uso de Text, Button y Column.
+- Compatibilidad hasta AGP 8.10
 
 🛠️ Tecnologías usadas
 
