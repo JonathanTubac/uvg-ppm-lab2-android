@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="base64-encoder-decoder" pluginVersion="7.1.0">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="base64-encoder-decoder" id="b176299e-c7ad-4714-b823-8fa55d291a04" name="Workbench">
+        <properties>
+          <property key="sourceFileWriteFormat" type="CONFIGURATION" value="FileHandling-WriteFormat|HEX" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+  </component>
+</project>
